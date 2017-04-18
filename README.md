@@ -13,6 +13,7 @@ A memória RAM é um tipo de tecnologia que permite o acesso aos arquivos armaze
 Como funciona
 Assim como a mesa, quanto maior a memória RAM, maior sua capacidade de trabalho. Mas a capacidade da mesa é medida em área. Quanto maior a área da mesa, mais livros cabem e mais rapidamente se faz o trabalho. Já a capacidade da memória RAM, mede-se pelo fluxo de bits suportados nas operações.
 Ou seja, para se acessar uma grande quantidade de memória  no HD de uma só vez, como muitos programas atuais exigem, é necessário uma grande quantidade de memória RAM. São estes, portanto, os megabites ou gigabites que aparecem nas configurações.
+
 Fonte: http://www.techtudo.com.br/artigos/noticia/2012/02/o-que-e-memoria-ram-e-qual-sua-funcao.html
 
 Memória ROM.
@@ -28,12 +29,14 @@ EPROM.
 Outro tipo muito usado é o Erasable Programmable Read-Only Memory (EPROM). A grande inovação da EPROM é permitir a regravação de dados. O conteúdo do chip pode ser apagado expondo-o à luz ultravioleta por cerca de 10 minutos. Já o processo de reescrita dos dados requer uma voltagem cada vez maior e, com isso, a número de reprogramações acaba sendo limitado.
 EEPROM
 Um tipo mais recente é a Electrically Erasable Programmable Read-Only Memory (EEPROM) que, como o próprio nome indica, permite que os dados sejam apagados e gravados com o uso de eletricidade. Assim, é possível atualizar o firmware de uma câmera ou de um MP3 Player de maneira muito mais prática, sem precisar remover o chip ROM de dentro do aparelho.
+
 Fonte: https://www.tecmundo.com.br/memoria/9346-o-que-e-memoria-rom-.htm
 
 Memória virtual (SWAP).
 Os arquivos de paginação nada mais são do que um espaço no disco rígido reservado para ajudar a armazenar os dados da memória RAM quando ela está cheia. É uma forma de estender a quantidade de memória para os dados temporários utilizados pelos aplicativos em execução sem que você precise fazer um upgrade de hardware.
 Podemos dizer que seja uma técnica computacional usada pelos sistemas operacionais para aumentar quantidade de memória real do computador a fim de rodar os programas e o próprio sistema sem travamentos.
 Essa memória virtual que vai auxiliar a memória RAM fica armazenada no seu HD e tem diferenças de sistema para sistema, porém cumpre a mesma função.
+
 Fonte: http://www.diolinux.com.br/2014/09/o-que-e-memoria-swap.html
 
 Paginação de Memória.
